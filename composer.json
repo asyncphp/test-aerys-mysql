@@ -1,0 +1,11 @@
+{
+    "type": "project",
+    "license": "MIT",
+    "scripts": {
+        "start": "aerys -d -c server.php"
+    },
+    "require": {
+        "amphp/aerys": "^0.7.4",
+        "amphp/mysql": "^0.3.1"
+    }
+}
